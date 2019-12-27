@@ -287,4 +287,5 @@ async function parseYtVideoRedir(urlObj, newLen, res) {
     return null
   }
   return urlObj
-}
+} 
+test
